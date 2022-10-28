@@ -50,19 +50,22 @@
 <br />
 
 ### <h2></h2>
+<p align="left">
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Shivam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fzd370&show_icons=true&hide_border=true" />
 
 </details>
-
+ </p>
+<p align="right">
 <details>
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Shivam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzd370" />
 
 </details>
+ </p>
 
 <p align="center">
  <a href="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> <img alt="shivam shukla github" src="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> </a>
