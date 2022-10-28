@@ -3,8 +3,8 @@
  <img alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/3.gif"/>
 
 
-## I'm an aspiring software developer !!
-- ✍ You can find my artpolio here[artportfolio]
+## I'm an aspiring software engineer !
+- ✍ I'm currently pursuing master's from NIT Surathkal
 - 🔭 I’m currently working on developing an android application which uses visual cryptography.
 - 🌱 I’m currently learning javascript and phaser 3
 - 👯 I’m looking to collaborate on open source
@@ -61,3 +61,4 @@
 [instagram]: https://www.instagram.com/kindaichi_k/
 [linkedin]: https://linkedin.com/in/ssk2
 [blog]: https://orendainyou.blogspot.com/2022/09/venkat-panchapakesan-memorial.html
+[here]: https://shyomsketches.blogspot.com/
