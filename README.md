@@ -14,7 +14,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="kindaichi | LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1tje3EI-grGOLsSeeHLjXv&ust=1667054984080000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjAv_OVg_sCFQAAAAAdAAAAABAE" />][linkedin]
+[<img align="left" alt="kindaichi | LinkedIn" width="22px" src="https://github.com/fzd370/fzd370/blob/main/linkedin.png" />][linkedin]
 
 <br />
 
