@@ -72,6 +72,9 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
+## Snake eating my contributions
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
 [artportfolio]: https://shyomsketches.blogspot.com/
 [instagram]: https://www.instagram.com/kindaichi_k/
