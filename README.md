@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Sukuna cannot beat Satoru Gojo
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/linkedin.png" />][linkedin]
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/paint.png" />][artportfolio]
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/link.png" />][blog]
