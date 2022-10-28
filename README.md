@@ -73,7 +73,7 @@
 </p>
 
 ## Snake eating my contributions
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/fzd370/fzd370/blob/output/github-contribution-grid-snake.gif)
 
 
 [artportfolio]: https://shyomsketches.blogspot.com/
