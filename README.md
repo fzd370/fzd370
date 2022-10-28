@@ -5,7 +5,7 @@
 
 ## I'm an aspiring software engineer !
 - ✍ I'm currently pursuing master's from NIT Surathkal
-- 🔭 I’m currently working on developing an android application which uses visual cryptography.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on developing an android application which uses visual cryptography.
 - 🌱 I’m currently learning javascript and phaser 3
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
