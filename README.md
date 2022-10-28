@@ -37,6 +37,7 @@
 [<img align="left" alt="Git" width="26px" src="https://github.com/fzd370/fzd370/blob/main/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/fzd370/fzd370/blob/main/github.gif" />][linkedin]
 [<img align="left" alt="XML" width="26px" src="https://github.com/fzd370/fzd370/blob/main/xml.png" />][linkedin]
+[<img align="left" alt="Blogger" width="26px" src="https://github.com/fzd370/fzd370/blob/main/blogger.png" />][linkedin]
 
 
 <br />
