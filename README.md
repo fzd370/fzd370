@@ -1,6 +1,6 @@
 ### cout<<"Hello World! I'm Shivam  👋";
 
- <img align="right" alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/1.gif" width="500" height="320" />
+ <img alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/3.gif"/>
 
 
 ## I'm an aspiring software developer !!
