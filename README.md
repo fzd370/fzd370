@@ -21,6 +21,11 @@
 
 <br />
 
+### Coding Profiles
+[![Badge](https://cp-logo.vercel.app/codeforces/ssk2)]
+(https://codeforces.com/profile/ssk2)
+
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fzd370/fzd370/blob/main/visual.png" />][linkedin]
