@@ -22,7 +22,7 @@
 <br />
 
 ### <h2>Coding Profiles</h2>
-[![Badge](https://cp-logo.vercel.app/codeforces/ssk2)][codeforces]    [![Badge](https://cp-logo.vercel.app/leetcode/Kindaichi)][leetcode]
+[![Badge](https://cp-logo.vercel.app/codeforces/ssk2)][codeforces]    [![Badge](https://cp-logo.vercel.app/leetcode/Kindaichi)][leetcode]     [![](https://img.shields.io/badge/HackerRank-kindaichi-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/shuklashivamk2)
  
 
 
