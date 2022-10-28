@@ -1,4 +1,4 @@
-<h2> cout<<"नमस्ते (Namaste)🙏! I'm Shivam Shukla"; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:ayush2608@gmail.com)
+<h2> cout<<"नमस्ते (Namaste)🙏! I'm Shivam Shukla"; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
 
  <img alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/3.gif"/>
 
@@ -17,6 +17,7 @@
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/paint.png" />][artportfolio]
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/link.png" />][blog]
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/instagram.png" />][instagram]
+[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:shuklashivamk2@gmail.com)
 
 <br />
 
