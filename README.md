@@ -1,4 +1,4 @@
-<h2 align="center"> cout<<"नमस्ते (Namaste)🙏! I'm Shivam Shukla"; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
+<h2 align="center"> cout<<"नमस्ते (Namaste)🙏"; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
 
  <img alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/3.gif"/>
 
