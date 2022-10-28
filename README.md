@@ -3,10 +3,10 @@
  <img alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/3.gif"/>
 
 ## I'm an aspiring software engineer !
-- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I'm currently pursuing master's from NIT Surathkal
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on developing an android application which uses visual cryptography.
-- 🌱 I’m currently learning javascript and phaser 3
-- 👯 I’m looking to collaborate on open source
+- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Currently pursuing master's from NIT Surathkal
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working on developing an android application which uses visual cryptography to securely do transactions using qr code
+- 🌱 Learning javascript and phaser 3 for game development
+- 👯 Open to collaborate on open source projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sukuna cannot beat Satoru Gojo
@@ -67,6 +67,8 @@
 <p align="center">
  <a href="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> <img alt="shivam shukla github" src="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> </a>
 </p>
+
+<p align="center">Shinzou Wo Sasageyo</p>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
