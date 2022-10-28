@@ -21,9 +21,9 @@
 
 <br />
 
-### Coding Profiles
-[![Badge](https://cp-logo.vercel.app/codeforces/ssk2)]
-(https://codeforces.com/profile/ssk2)
+<h2>Coding Profiles</h2>
+[![Badge](https://cp-logo.vercel.app/codeforces/ssk2)][linkedin]
+
 
 
 ### Languages and Tools:
