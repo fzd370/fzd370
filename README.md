@@ -58,8 +58,6 @@
 
 </details>
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=ssk2&theme=1)
-
 
 [artportfolio]: https://shyomsketches.blogspot.com/
 [instagram]: https://www.instagram.com/kindaichi_k/
