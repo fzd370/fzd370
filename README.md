@@ -3,6 +3,7 @@
  <img alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/3.gif"/>
 
 ## I'm an aspiring software engineer !
+- [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:shuklashivamk2@gmail.com)
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I'm currently pursuing master's from NIT Surathkal
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on developing an android application which uses visual cryptography.
 - 🌱 I’m currently learning javascript and phaser 3
@@ -17,7 +18,6 @@
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/paint.png" />][artportfolio]
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/link.png" />][blog]
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/instagram.png" />][instagram]
-[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:shuklashivamk2@gmail.com)
 
 <br />
 
