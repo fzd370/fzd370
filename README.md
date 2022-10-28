@@ -1,8 +1,8 @@
-<h2> cout<<"Hello World! I'm Shivam"; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)</h2>
+<h2> cout<<"Hello World! I'm Shivam"; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
  <img alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/3.gif"/>
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=fzd370)
 ## I'm an aspiring software engineer !
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I'm currently pursuing master's from NIT Surathkal
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on developing an android application which uses visual cryptography.
