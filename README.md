@@ -4,7 +4,7 @@
 
 
 ## I'm an aspiring software developer !!
-- ✍ You can find my projects here 
+- ✍ You can find my artpolio here[artportfolio]
 - 🔭 I’m currently working on developing an android application which uses visual cryptography.
 - 🌱 I’m currently learning javascript and phaser 3
 - 👯 I’m looking to collaborate on open source
