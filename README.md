@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Sukuna cannot beat Satoru Gojo
 
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me, I'm kinda awesome
+### <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me, I'm kinda awesome</h2>
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/linkedin.png" />][linkedin]
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/paint.png" />][artportfolio]
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/link.png" />][blog]
@@ -22,7 +22,8 @@
 <br />
 
 ### <h2>Coding Profiles</h2>
-[![Badge](https://cp-logo.vercel.app/codeforces/ssk2)][linkedin]
+[![Badge](https://cp-logo.vercel.app/codeforces/ssk2)][codeforces]     [![Badge](https://cp-logo.vercel.app/codechef/fzd314)][codechef]
+[![Badge](https://cp-logo.vercel.app/leetcode/Kindaichi)][leetcode]
 
 
 
@@ -68,4 +69,6 @@
 [instagram]: https://www.instagram.com/kindaichi_k/
 [linkedin]: https://linkedin.com/in/ssk2
 [blog]: https://orendainyou.blogspot.com/2022/09/venkat-panchapakesan-memorial.html
-[here]: https://shyomsketches.blogspot.com/
+[codeforces]: https://codeforces.com/profile/ssk2
+[codechef]: https://www.codechef.com/users/fzd314
+[leetcode]: https://leetcode.com/Kindaichi/
