@@ -5,8 +5,8 @@
 
 ## I'm an aspiring software developer !!
 - ✍ You can find my projects here 
-- 🔭 I’m currently working on my developing android application which uses visual cryptography.
-- 🌱 I’m currently learning React Native and Azure
+- 🔭 I’m currently working on developing an android application which uses visual cryptography.
+- 🌱 I’m currently learning javascript and phaser 3
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
@@ -14,7 +14,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="kindaichi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kindaichi | LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1tje3EI-grGOLsSeeHLjXv&ust=1667054984080000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjAv_OVg_sCFQAAAAAdAAAAABAE" />][linkedin]
 
 <br />
 
