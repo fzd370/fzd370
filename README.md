@@ -4,7 +4,7 @@
 
 
 ## I'm an aspiring software engineer !
-- ✍ I'm currently pursuing master's from NIT Surathkal
+- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I'm currently pursuing master's from NIT Surathkal
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on developing an android application which uses visual cryptography.
 - 🌱 I’m currently learning javascript and phaser 3
 - 👯 I’m looking to collaborate on open source
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Sukuna cannot beat Satoru Gojo
 
 
-### Connect with me, I am kinda awesome:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/linkedin.png" />][linkedin]
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/paint.png" />][artportfolio]
 [<img align="left" alt="kindaichi | LinkedIn" width="30px" src="https://github.com/fzd370/fzd370/blob/main/link.png" />][blog]
