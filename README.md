@@ -1,4 +1,4 @@
-<h2 align="center"> cout<<"नमस्ते (Namaste)🙏"; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
+<h2 align="center"> cout<<"नमस्ते (Namaste)🙏"; <img src="https://github.com/fzd370/fzd370/blob/main/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f636d557447587056365452486c413d3d2d313130393132313032392e3136616333353362373366656236373035.gif" width="50"></h2> 
 
  <img alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/3.gif"/>
 
