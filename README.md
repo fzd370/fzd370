@@ -50,7 +50,7 @@
 <br />
 
 <p align="center">
-![](https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370)
+ <a href="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> <img alt="shivam shukla github" src="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> </a>
 </p>
 
 ### <h2></h2>
