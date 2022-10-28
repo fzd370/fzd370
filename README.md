@@ -21,7 +21,7 @@
 
 <br />
 
-<h2>Coding Profiles</h2>
+### <h2>Coding Profiles</h2>
 [![Badge](https://cp-logo.vercel.app/codeforces/ssk2)][linkedin]
 
 
