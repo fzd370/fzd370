@@ -22,7 +22,7 @@
 <br />
 
 ### <h2>Coding Profiles</h2>
-[![Badge](https://cp-logo.vercel.app/codeforces/ssk2)][codeforces]     [![Badge](https://cp-logo.vercel.app/codechef/fzd314)][codechef]
+[![Badge](https://cp-logo.vercel.app/codeforces/ssk2)][codeforces]     https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/<ssk2>&query=%24.<FIELD>&prefix=<TEXT>&style=for-the-badge&cacheSeconds=86400
 [![Badge](https://cp-logo.vercel.app/leetcode/Kindaichi)][leetcode]
 
 
