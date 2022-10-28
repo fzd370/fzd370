@@ -3,7 +3,6 @@
  <img alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/3.gif"/>
 
 ## I'm an aspiring software engineer !
-- [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:shuklashivamk2@gmail.com)
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I'm currently pursuing master's from NIT Surathkal
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on developing an android application which uses visual cryptography.
 - 🌱 I’m currently learning javascript and phaser 3
@@ -11,6 +10,7 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sukuna cannot beat Satoru Gojo
+-     [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:shuklashivamk2@gmail.com)
 
 
 ### <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me, I'm kinda awesome</h2>
