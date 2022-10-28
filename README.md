@@ -1,4 +1,4 @@
-<h2> cout<<"नमस्ते (Namaste)🙏! I'm Shivam Shukla"; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> cout<<"नमस्ते (Namaste)🙏! I'm Shivam Shukla"; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:ayush2608@gmail.com)
 
  <img alt="GIF" src="https://github.com/fzd370/fzd370/blob/main/3.gif"/>
 
