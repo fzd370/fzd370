@@ -49,8 +49,9 @@
 <br />
 <br />
 
-### <h2></h2>
+<p align="center">
 ![](https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370)
+</p>
 
 ### <h2></h2>
 <details>
