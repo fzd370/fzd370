@@ -26,7 +26,7 @@
 
 
 
-### Languages and Tools:
+### <h2>Languages and Tools:</h2>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fzd370/fzd370/blob/main/visual.png" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
@@ -48,8 +48,10 @@
 <br />
 <br />
 
+### 
 ![](https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370)
 
+###
 <details>
   <summary>:zap: GitHub Stats</summary>
 
