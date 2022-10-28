@@ -49,10 +49,6 @@
 <br />
 <br />
 
-<p align="center">
- <a href="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> <img alt="shivam shukla github" src="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> </a>
-</p>
-
 ### <h2></h2>
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -67,6 +63,10 @@
 <img align="left" alt="Shivam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzd370" />
 
 </details>
+
+### <p align="center">
+ <a href="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> <img alt="shivam shukla github" src="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> </a>
+</p>
 
 
 [artportfolio]: https://shyomsketches.blogspot.com/
