@@ -65,10 +65,6 @@
 </details>
 
 <p align="center">
- <a href="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> <img alt="shivam shukla github" src="https://visitor-badge.glitch.me/badge?page_id=fzd370.fzd370"> </a>
-</p>
-
-<p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
